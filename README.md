@@ -145,7 +145,7 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome**  
-💼 [LinkedIn](https://www.linkedin.com/) | 🌐 [Portfólio](https://seusite.dev)
+Desenvolvido por **Layan Gabriel**  
+
 
 ---
