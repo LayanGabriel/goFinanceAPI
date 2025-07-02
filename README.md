@@ -17,7 +17,7 @@ Esta é uma API RESTful desenvolvida com **Node.js** e **PostgreSQL** para geren
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+[git clone (https://github.com/LayanGabriel/goFinanceAPI.git)]
 cd seu-repositorio
 npm install
 ```
